@@ -23,6 +23,10 @@ The data is contained in three files:
 - NumPy
 - datetime
 
+# Questions Answered
+- Finding what is the gender distrubtion 
+- Study the customers income 
+- Study the Promos and offer types
 
 # Imporvements
 

@@ -28,6 +28,10 @@ The data is contained in three files:
 - Study the customers income 
 - Study the Promos and offer types
 
+# Results
+You can find the results for the analysis in the following medium article just click here(https://saad-k-alrazoq.medium.com/starbucks-capstone-project-b8cec37e8bea)
+
+
 # Imporvements
 
 so after I finished analyzing the data, I can notice there is some view missing data that could be useful to us, for example if we have the data of what kind of order did the customer buy and what kind of coffee and study the reasons behind why the customers like these products and do more offers with these products to increase sales.

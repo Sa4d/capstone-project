@@ -29,7 +29,7 @@ The data is contained in three files:
 - Study the Promos and offer types
 
 # Results
-You can find the results for the analysis in the following medium article just click (Here) [https://saad-k-alrazoq.medium.com/starbucks-capstone-project-b8cec37e8bea]
+You can find the results for the analysis in the following medium article just click [here] [https://saad-k-alrazoq.medium.com/starbucks-capstone-project-b8cec37e8bea]
 
 
 # Imporvements
